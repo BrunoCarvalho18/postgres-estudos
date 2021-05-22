@@ -1,0 +1,3 @@
+SELECT pi();
+
+SELECT @ 1723482814;
